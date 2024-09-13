@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Thank you for considering contributing to our project! To contribute, fork the repository, create a new branch, make your changes, and submit a pull request. Please follow our coding standards and include tests for new features.

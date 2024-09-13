@@ -1,1 +1,1 @@
-# github-final-project
+Welcome to the Simple Interest Calculator project! This repository contains a script to calculate simple interest. To use it, clone the repo, run the script, and input the principal amount, rate, and time period. Contributions are welcome!
